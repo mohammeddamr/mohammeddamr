@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohammed Amr
 
-<!--
-**mohammeddamr/mohammeddamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software engineer focused on backend development.
 
-Here are some ideas to get you started:
+I'm currently building **Smart Student Advisor Backend**, a student advising API using JavaScript, Node.js, Express, and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have prior hands-on experience with Linux, Docker, CI/CD, and deployment, and I’m refreshing those skills as I build.
+
+### My current focus
+
+- Building and documenting backend APIs
+- Strengthening JavaScript and database fundamentals
+- Practicing data structures and algorithms
+- Writing reliable, testable software
+
+### My repositories
+
+- [Smart Student Advisor Backend](https://github.com/mohammeddamr/Smart-Student-Advisor-Backend) — my main backend project, currently in development.
+- [Backend Fundamentals](https://github.com/mohammeddamr/Backend-Fundamentals) — my backend learning exercises and notes.
+- [Data Structures and Algorithms](https://github.com/mohammeddamr/Data-Structures-And-Algorithms) — my problem-solving practice, with explanations and complexity analysis.
