@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Amr
 
-Aspiring software engineer focused on backend development.
+software engineer focused on backend development.
 
 I'm currently building **Smart Student Advisor Backend**, a student advising API using JavaScript, Node.js, Express, and MongoDB.
 
